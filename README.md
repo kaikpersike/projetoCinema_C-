@@ -1,1 +1,1 @@
-# projetoCinema_C-
+# projetoCinema_C++
